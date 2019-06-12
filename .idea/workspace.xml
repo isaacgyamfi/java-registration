@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ee5a75a-4377-4b69-9baf-10743405feb7/storage_v2/_src_/schema/awg_auxiliary_db.JSHlGg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ee5a75a-4377-4b69-9baf-10743405feb7/storage_v2/_src_/schema/awg_commandery_db.bi6PjA.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ee5a75a-4377-4b69-9baf-10743405feb7/storage_v2/_src_/schema/awg_ladies_db.Zw2Qzg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ee5a75a-4377-4b69-9baf-10743405feb7/storage_v2/_src_/schema/awgcla_commandery.-Rhq5A.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ee5a75a-4377-4b69-9baf-10743405feb7/storage_v2/_src_/schema/learnmysql.3rzBOg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/5ee5a75a-4377-4b69-9baf-10743405feb7/storage_v2/_src_/schema/socka.HYWIBg.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/home/DbConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/home/DbConnection.java" afterDir="false" />
     </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -105,20 +99,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/home/DbConnection.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/home/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+            <state relative-caret-position="192">
+              <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -208,8 +202,8 @@
         <option value="$PROJECT_DIR$/src/home/Controller.java" />
         <option value="$PROJECT_DIR$/src/home/home.fxml" />
         <option value="$PROJECT_DIR$/src/home/Registration.java" />
-        <option value="$PROJECT_DIR$/src/home/DbConnection.java" />
         <option value="$PROJECT_DIR$/src/home/.gitignore" />
+        <option value="$PROJECT_DIR$/src/home/DbConnection.java" />
       </list>
     </option>
   </component>
@@ -239,41 +233,6 @@
             <path>
               <item name="java-registration-system" type="b2602c69:ProjectViewProjectNode" />
               <item name="java-registration-system" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-registration-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-registration-system" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="dataSources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-registration-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-registration-system" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="dataSources" type="462c0819:PsiDirectoryNode" />
-              <item name="5ee5a75a-4377-4b69-9baf-10743405feb7" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-registration-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-registration-system" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="dataSources" type="462c0819:PsiDirectoryNode" />
-              <item name="5ee5a75a-4377-4b69-9baf-10743405feb7" type="462c0819:PsiDirectoryNode" />
-              <item name="storage_v2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-registration-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-registration-system" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-              <item name="dataSources" type="462c0819:PsiDirectoryNode" />
-              <item name="5ee5a75a-4377-4b69-9baf-10743405feb7" type="462c0819:PsiDirectoryNode" />
-              <item name="storage_v2" type="462c0819:PsiDirectoryNode" />
-              <item name="_src_" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java-registration-system" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java-registration-system" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -281,6 +240,13 @@
               <item name="java-registration-system" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="home" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java-registration-system" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java-registration-system" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="home" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -445,18 +411,18 @@
       <workItem from="1560240889107" duration="5920000" />
       <workItem from="1560255379954" duration="1926000" />
       <workItem from="1560269723608" duration="11393000" />
-      <workItem from="1560306559797" duration="5956000" />
+      <workItem from="1560306559797" duration="8301000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63804000" />
+    <option name="totallyTimeSpent" value="66149000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="Learn" order="0" />
-      <window_info content_ui="combo" id="Project" order="1" sideWeight="0.6703755" visible="true" weight="0.1732224" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.6703755" visible="true" weight="0.1732224" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info id="Favorites" order="3" />
       <window_info id="Designer" order="4" />
@@ -466,7 +432,7 @@
       <window_info anchor="bottom" id="SQL Generator" weight="0.32991454" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2871795" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2871795" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39965397" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -480,14 +446,14 @@
       <window_info anchor="bottom" id="Messages" order="13" weight="0.32991454" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="15" weight="0.32820514" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="16" visible="true" weight="0.32820514" />
+      <window_info anchor="bottom" id="Terminal" order="16" weight="0.23931624" />
       <window_info anchor="bottom" id="Database Console" order="17" weight="0.32820514" />
       <window_info anchor="right" id="Key Promoter X" order="0" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
       <window_info anchor="right" id="JetGradle" order="4" />
-      <window_info anchor="right" id="Database" order="5" visible="true" weight="0.21028744" />
+      <window_info anchor="right" id="Database" order="5" weight="0.21028744" />
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Maven" order="8" />
@@ -619,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/home/DbConnection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -643,8 +602,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/home/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="192">
+          <caret line="8" column="27" lean-forward="true" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/home/DbConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>
